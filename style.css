@@ -39,6 +39,7 @@ section {
 /* Style 1 */
 .style-1 {
   background-image: url('https://picsum.photos/id/830/1920/1080');
+  background-attachment: fixed;
 }
 
 .style-1 .text {
@@ -50,6 +51,7 @@ section {
   background-image: url('https://picsum.photos/id/112/1920/1080');
   background-clip: text;
   -webkit-background-clip: text;
+  background-attachment: fixed;
 }
 
 .style-2 .text {
@@ -105,6 +107,7 @@ section {
   background-position: 0% 0%;
   background-clip: text;
   -webkit-background-clip: text;
+  background-attachment: fixed;
 }
 
 .style-4 .text {
